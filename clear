@@ -1,0 +1,29 @@
+[33mcommit 3da27dfec7062e323fb718f416cbf324d16579c9[m[33m ([m[1;32mabout[m[33m)[m
+Author: Deon GT <surajprasad@gmail.com>
+Date:   Mon Jan 5 16:25:35 2026 +0530
+
+    create about.hmtl file
+
+[33mcommit 244a3e9e6b0594368e528c6e8195dc2346bd4872[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Deon GT <surajprasad@gmail.com>
+Date:   Sat Jan 3 21:24:14 2026 +0530
+
+    Add some css in style file
+
+[33mcommit e6825658d283db44ebe05a4bb00c74c6727ded95[m
+Author: Deon GT <surajprasad@gmail.com>
+Date:   Sat Jan 3 21:23:29 2026 +0530
+
+    Add some css in style file
+
+[33mcommit 3cfe63569805085db5e3c58d57b82cc8cb8d9d1b[m
+Author: Deon GT <surajprasad@gmail.com>
+Date:   Sat Jan 3 20:41:04 2026 +0530
+
+    Add boilerplate code in html
+
+[33mcommit 47def70f76409533037c32d1640edd0a3181748b[m
+Author: Deon GT <surajprasad@gmail.com>
+Date:   Sat Jan 3 20:26:00 2026 +0530
+
+    initial commit
